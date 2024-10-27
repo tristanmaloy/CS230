@@ -1,6 +1,6 @@
 Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
 
-The Gaming Room wwants to develop a web-based game that serves multiple platform that is based on their current game, Draw It or Lose It. The game is currently only on Android and should work cross platform while supporting multiple teams and players. 
+The Gaming Room wants to develop a web-based game that serves multiple platform that is based on their current game, Draw It or Lose It. The game is currently only on Android and should work cross platform while supporting multiple teams and players. 
 
 What did you do particularly well in developing this documentation?
 
